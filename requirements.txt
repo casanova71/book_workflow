@@ -1,0 +1,11 @@
+openai
+chromadb
+playwright
+gTTS
+SpeechRecognition
+flask
+pydub
+transformers
+torch
+langchain
+streamlit
